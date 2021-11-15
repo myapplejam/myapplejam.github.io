@@ -1,1 +1,2 @@
-# myapplejam.github.io
+# Animal Crossing Helper
+_by AppleJam_
